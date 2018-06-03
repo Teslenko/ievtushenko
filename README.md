@@ -11,7 +11,7 @@
 
 -------------
 
-*heroku git:remote -a Evtushenko
+*heroku git:remote -a ievtushenko
 
 *git add .
 
