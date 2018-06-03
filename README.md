@@ -5,7 +5,7 @@
 
 *git commit -m "first commit" 
 
-*git remote add origin https://github.com/Teslenko/Evtushenko.git
+*git remote add origin https://github.com/Teslenko/ievtushenko.git
 
 *git push -u origin master
 
